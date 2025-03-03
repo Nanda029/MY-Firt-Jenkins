@@ -1,2 +1,1 @@
-# MY-Firt-Jenkins
-My-FIrst-Jenkins
+# My First Jenkins Project
